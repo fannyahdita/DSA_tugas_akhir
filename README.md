@@ -11,7 +11,7 @@ Kali ini, teknik machine learning yang digunakan adalah Convolutional Neural Net
 
 DSA - B
 Kelompok : Data scientist
-Fannyah Dita Cahya,\n
+Fannyah Dita Cahya,
 Firandra Savitri,
 Metta Anantha,
 Nadhifah Hanan,
@@ -20,6 +20,8 @@ Regensa Annafii,
 Fakultas Ilmu Komputer
 Universitas Indonesia
 2019
+
+
 
 Ching, C. (Mar 27, 2019). How to build an image classifier for waste sorting. Retrieved from
 https://towardsdatascience.com/how-to-build-an-image-classifier-for-waste-sorting-6d11d3c9c478

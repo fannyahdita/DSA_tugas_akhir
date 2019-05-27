@@ -10,7 +10,9 @@ https://towardsdatascience.com/how-to-build-an-image-classifier-for-waste-sortin
 Kali ini, teknik machine learning yang digunakan adalah Convolutional Neural Network (CNN). Convolutional Neural Network merupakan suatu metode untuk pengenalan gambar, klasifikasi gambar, deteksi objek, pengenalan wajah, dan lain-lain. Klasifikasi gambar dengan CNN dilakukan dengan cara mengambil input sebuah gambar, memproses gambar tersebut, dan mengklasifikasikan gambar tersebut di bawah beberapa kategori (dalam hal ini, kategori yang ada bisa seperti cardboard, plastic, dan lain-lain).
 
 DSA - B
+
 Kelompok : Data scientist
+
 Fannyah Dita Cahya,
 Firandra Savitri,
 Metta Anantha,
